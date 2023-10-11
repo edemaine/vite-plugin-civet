@@ -1,12 +1,12 @@
 {
   "name": "vite-plugin-civet",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Vite plugin for civet",
   "license": "MIT",
   "author": "Lorefnon <lorefnon@tutanota.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lorefnon/vite-plugin-civet.git"
+    "url": "git+https://github.com/edemaine/vite-plugin-civet.git"
   },
   "keywords": [
     "vite",
@@ -38,9 +38,9 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit"
   },
-  "homepage": "https://github.com/lorefnon/vite-plugin-civet#readme",
+  "homepage": "https://github.com/edemaine/vite-plugin-civet#readme",
   "bugs": {
-    "url": "https://github.com/lorefnon/vite-plugin-civet/issues"
+    "url": "https://github.com/edemaine/vite-plugin-civet/issues"
   },
   "dependencies": {
     "@danielx/civet": ">=0.6.43",
